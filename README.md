@@ -15,5 +15,5 @@ I created a *Udemy clone* using *HTML and CSS* as a front-end practice project. 
 - CSS3
 
 ## 📂 Live Demo & Repository
-🔗 [Live Demo]()  
+🔗 [Live Demo](https://adithiyansekar.github.io/Udemy-Clone-static-P1/)  
 📁 [Repository]()
